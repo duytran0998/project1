@@ -24,4 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("tvd.pro.quanlysinhvien", appContext.getPackageName());
     }
 //chinh sua
+//ajhdjkhsfhjdfh
 }
